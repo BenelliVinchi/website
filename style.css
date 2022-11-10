@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+*{box-sizing: boarder-box;
+padding: 10px ;}
+h1{    color: rgb(212, 210, 150);
+    font-size: 100px;
+    background-color: rgba(2, 6, 18, 0.593);
+    color: rgb(111, 12, 198);
+    font-family: 'Permanent Marker', cursive;
+text-align: center;}  
+.open{color: rgb(212, 210, 150);
+    font-size: 20px;
+    color: rgb(2, 0, 3);
+    font-family: 'Permanent Marker', cursive;}
+
+.Page1{
+    background-image:url(manny.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;}
+    #navbar{background-color: rgba(0, 0, 0, 0.889);
+        font-size: 30px;
+            display: flex;
+            justify-content:space-evenly ;
+            font-family: 'Permanent Marker', cursive;}
+        #navbar a{color: blueviolet;}
+        #navbar a:hover{color: red;}
+.page2{
+    background-image:url(sle.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;}
+ #navbar2{
+        font-size: 30px;
+            display: flex;
+            justify-content:space-evenly ;
+            font-family: 'Permanent Marker', cursive;}
+            #navbar2 a{color: rgb(3, 14, 3);}
+            #navbar2 a:hover{color: rgb(9, 242, 68);}
+.page3{
+    background-image:url(24.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;}
+    #navbar3{
+        font-size: 30px;
+            display: flex;
+            justify-content:space-evenly ;
+            font-family: 'Permanent Marker', cursive;}
+            #navbar3 a{color: rgb(213, 240, 7);}
+            #navbar3 a:hover{color: rgb(9, 21, 242);}
+.page4{
+    background-image:url(manny3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;}
+    #navbar4{
+        font-size: 30px;
+            display: flex;
+            justify-content:space-evenly ;
+            font-family: 'Permanent Marker', cursive;}
+            #navbar4 a{color: rgb(240, 7, 7);}
+            #navbar4 a:hover{color: rgb(137, 9, 242);}
+
+.lobe{    justify-content: space-evenly;
+    display: flex;}
+
+*{    margin: 0;
+    padding: 0;}
+
+
+
+
+
+
+#content{
+    background-color: bisque;
+    text-align: left;
+    width: 55%;
+}
+
+#content2{
+    background-color: bisque;
+    text-align: left;
+    width: 55%;
+}
+
+#content3{
+    background-color: bisque;
+    text-align: left;
+    width: 55%;
+    
+}
+
